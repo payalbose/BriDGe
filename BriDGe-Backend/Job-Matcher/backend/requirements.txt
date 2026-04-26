@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+python-multipart
+PyPDF2
+google-generativeai
+requests
+beautifulsoup4
+playwright
+duckduckgo-search
+python-dotenv
+httpx

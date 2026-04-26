@@ -1,0 +1,243 @@
+course_id,course_title
+1,Networking in Google Cloud Specialization
+2,"Two Speed IT: How Companies Can Surf the Digital Wave, a BCG Perspective"
+3,Fundamentals of Network Communication
+4,Design a User Experience for Social Good & Prepare for Jobs
+5,Building Database Applications in PHP
+6,Web Design: Wireframes to Prototypes
+7,Build Wireframes and Low-Fidelity Prototypes
+8,Introduction to C# Programming and Unity
+9,Virtual Reality Specialization
+10,C++ Programming for Unreal Game Development Specialization
+11,Game Design and Development with Unity 2020 Specialization
+12,Interaction Design Specialization
+13,Digital Product Management Specialization
+14,Web Design for Everybody: Basics of Web Development & Coding Specialization
+15,Google UX Design Professional Certificate
+16,Foundations of User Experience (UX) Design
+17,Google UX Design Professional Certificate
+18,Fundamentals of Graphic Design
+19,"HTML, CSS, and Javascript for Web Developers"
+20,Agile Analytics
+21,Building AI Powered Chatbots Without Programming
+22,Real-World Product Management Specialization
+23,User Experience Research and Design Specialization
+24,Client Needs and Software Requirements
+25,Evaluating User Interfaces
+26,Introduction to UI Design
+27,Interaction Design Specialization
+28,Networking
+29,Fundamentals of Computer Network Security Specialization
+30,Introduction to Networking and Storage
+31,Creando una aplicación con Stellar SDK
+32,Crea y vende tus NFT en marketplace
+33,البدء باستخدام برنامج packet tracer
+34,Diseñando tarjetas de presentación en Adobe Illustrator
+35,Computer Security and Systems Management Specialization
+36,Introduction to Cyber Security Specialization
+37,(ISC)² Systems Security Certified Practitioner (SSCP)
+38,Google IT Support Professional Certificate
+39,Networking in Google Cloud: Defining and Implementing Networks
+40,Los bits y bytes de las redes informáticas
+41,Estrutura e Funcionamento das Redes de Computadores
+42,Seluk Beluk Jaringan Komputer
+43,Networking in Google Cloud 日本語版 Specialization
+44,Cloud Application Development Foundations Specialization
+45,The Bits and Bytes of Computer Networking
+46,Networking in Google Cloud Specialization
+47,AWS Cloud Technical Essentials
+48,Cloud Application Development Foundations Specialization
+49,The Bits and Bytes of Computer Networking
+50,Site Reliability Engineering: Measuring and Managing Reliability
+51,Continuous Delivery & DevOps
+52,Introduction to Hardware and Operating Systems
+53,IT Support Google Professional Certificate
+54,Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya
+55,Dasar-Dasar Dukungan Teknis
+56,Fundamentos do Suporte Técnico
+57,Palo Alto Networks Cybersecurity Professional Certificate
+58,Oracle Cloud Infrastructure Foundations
+59,Juniper Networks Junos Platform Automation and DevOps Specialization
+60,IBM Technical Support  Professional Certificate
+61,Technical Support Fundamentals
+62,Google IT Automation with Python Professional Certificate
+63,IBM DevOps and Software Engineering Professional Certificate
+64,Google IT Support Professional Certificate
+65,Crash Course on Python
+66,Google IT Automation with Python Professional Certificate
+67,Technical Support Fundamentals
+68,Google IT Support Professional Certificate
+69,Enterprise System Management and Security
+70,Customer Service Fundamentals
+71,Using Python to Interact with the Operating System
+72,Information​ ​Systems Specialization
+73,The Data Scientist’s Toolbox
+74,Natural Language Processing Specialization
+75,Analyze Network Traffic with TCPDump
+76,Configurer un pare-feu avec UFW sous Linux
+77,مقدمة عن شبكات الحاسوب وأجهزة سيسكو (Cisco)
+78,البدء باستخدام برنامج packet tracer
+79,Computer Security and Systems Management Specialization
+80,Introduction to Cyber Security Specialization
+81,(ISC)² Systems Security Certified Practitioner (SSCP)
+82,Google IT Support Professional Certificate
+83,Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya
+84,Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital
+85,Essential Cloud Infrastructure: Foundation dalam bahasa Indonesia
+86,Keamanan IT: Pertahanan terhadap Kejahatan Digital
+87,IT Fundamentals for Cybersecurity Specialization
+88,Architecting with Google Kubernetes Engine Specialization
+89,Architecting with Google Compute Engine Specialization
+90,Google IT Support Professional Certificate
+91,Architecting with Google Kubernetes Engine Specialization
+92,Architecting with Google Compute Engine Specialization
+93,Bitcoin and Cryptocurrency Technologies
+94,Google IT Support Professional Certificate
+95,Cybersecurity: Developing a Program for Your Business Specialization
+96,Information​ ​Systems Specialization
+97,-
+98,Cybersecurity for Business Specialization
+99,Data Structures and Algorithms Specialization
+100,Algorithms Specialization
+101,Machine Learning Engineering for Production (MLOps) Specialization
+102,Differential Equations for Engineers
+103,-
+104,Advanced Statistics for Data Science Specialization
+105,Precalculus through Data and Modelling Specialization
+106,Mathematics for Engineers Specialization
+107,Differential Equations for Engineers
+108,Matrix Algebra for Engineers
+109,Contenido de las matemáticas de primaria
+110,Calculus: Single Variable Part 1 - Functions
+111,Vector Calculus for Engineers
+112,Fibonacci Numbers and the Golden Ratio
+113,Matrix Algebra for Engineers
+114,Game Theory
+115,SQL for Data Science
+116,The Data Scientist’s Toolbox
+117,Mathematics for Machine Learning Specialization
+118,Introduction to Mathematical Thinking
+119,Game Theory
+120,SQL for Data Science
+121,Understanding Research Methods
+122,Computational Fluid Mechanics - Airflow Around a Spoiler
+123,Meta Front-End Developer Professional Certificate
+124,Excel Basics for Data Analysis
+125,Essential Cloud Infrastructure: Core Services dalam bahasa Indonesia
+126,El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho
+127,Google Cloud Fundamentals: Core Infrastructure dalam bahasa Indonesia
+128,Essential Cloud Infrastructure: Foundation dalam bahasa Indonesia
+129,Mastering the Software Engineering Interview
+130,Introduction to Software Product Management
+131,Hypothesis-Driven Development
+132,Agile Project Management
+133,Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
+134,Google IT Automation with Python Professional Certificate
+135,IBM Full Stack Software Developer Professional Certificate
+136,Key Technologies for Business Specialization
+137,Preparing for Google Cloud Certification: Cloud Architect Professional Certificate
+138,Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate
+139,Google IT Automation with Python Professional Certificate
+140,Key Technologies for Business Specialization
+141,Hybrid Cloud Service Mesh with Anthos
+142,Big Data Analytical Platform on Alibaba Cloud
+143,Amazon DynamoDB: Building NoSQL Database-Driven Applications
+144,Cloud Systems Software
+145,"Programming Foundations with JavaScript, HTML and CSS"
+146,Programming for Everybody (Getting Started with Python)
+147,Meta Back-End Developer Professional Certificate
+148,Excel to MySQL: Analytic Techniques for Business Specialization
+149,Excel Skills for Business: Essentials
+150,Share Data Through the Art of Visualization
+151,What is Corruption: Anti-Corruption and Compliance
+152,Effective Compliance Programs
+153,Excel Skills for Business: Intermediate I
+154,Proje Yönetiminin Temelleri
+155,Agile Meets Design Thinking
+156,How to Manage a Remote Team
+157,Budgeting and Scheduling Projects
+158,Project Initiation: Starting a Successful Project
+159,Career Success Specialization
+160,Successful Negotiation: Essential Strategies and Skills
+161,Improve Your English Communication Skills Specialization
+162,English for Career Development
+163,Cybersecurity: Developing a Program for Your Business Specialization
+164,Information​ ​Systems Specialization
+165,-
+166,Cybersecurity for Business Specialization
+167,Communication Strategies for a Virtual Age
+168,Improve Your English Communication Skills Specialization
+169,Good with Words: Speaking and Presenting Specialization
+170,Storytelling and influencing: Communicate with impact
+171,User-Experience: Create a Storyboard using Storyboarder
+172,How to Visualize Research Data in Tableau
+173,Eine Einführung in die Finite Elemente Methode mit SimScale
+174,Transferencia tecnológica: De la investigación al mercado.
+175,"Excel/VBA for Creative Problem Solving, Part 1"
+176,Experimentation for Improvement
+177,"Excel/VBA for Creative Problem Solving, Part 2"
+178,Being a researcher (in Information Science and Technology)
+179,"Ethics, Technology and Engineering"
+180,"Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python"
+181,Simulation and modeling of natural processes
+182,Quantitative Methods
+183,Understanding Research Methods
+184,Plant Bioinformatic Methods Specialization
+185,Cybersecurity Specialization
+186,Quantitative Methods
+187,"Excel/VBA for Creative Problem Solving, Part 1"
+188,Cybersecurity Specialization
+189,Chemistry
+190,How Things Work: An Introduction to Physics
+191,Excel Fundamentals for Data Analysis
+192,Introduction to advanced tomography
+193,Quantum Optics 1 : Single Photons
+194,Spacecraft Dynamics Capstone: Mars Mission
+195,Kinematics: Describing the Motions of Spacecraft
+196,مقدمة لفيزياء ألعاب الفيديو باستخدام محرك ألعاب Unity
+197,Linearer & Nichtlineare Finite Elemente Analyse mit SimScale
+198,Netzkonvergenzstudien in der Finiten Elemente Methode
+199,Strömungsimulation einer Kreiselpumpe
+200,Astro 101: Black Holes
+201,Astrobiology: Exploring Other Worlds
+202,Understanding Einstein: The Special Theory of Relativity
+203,Kinematics: Describing the Motions of Spacecraft
+204,Analyzing the Universe
+205,Imagining Other Earths
+206,Data-driven Astronomy
+207,Astrobiology: Exploring Other Worlds
+208,Big History: Connecting Knowledge
+209,How Things Work: An Introduction to Physics
+210,Astronomy: Exploring Time and Space
+211,Understanding Einstein: The Special Theory of Relativity
+212,Big History: Connecting Knowledge
+213,Understanding Einstein: The Special Theory of Relativity
+214,Astronomy: Exploring Time and Space
+215,Introduction to Probability and Data with R
+216,The Data Scientist’s Toolbox
+217,Google Data Analytics Professional Certificate
+218,Data Visualization in Excel
+219,Introdução à Ciência da Computação com Python Parte 1
+220,Excel Skills for Business: Intermediate I
+221,Spatial Analysis and Satellite Imagery in a GIS
+222,Data Analytics Methods for Marketing
+223,Excel Skills for Business: Essentials
+224,Customer Analytics
+225,AI Fundamentals for Non-Data Scientists
+226,Ask Questions to Make Data-Driven Decisions
+227,Applied Data Science with Python Specialization
+228,IBM Data Analyst Professional Certificate
+229,Assess for Success: Marketing Analytics and Measurement
+230,Data Science Fundamentals with Python and SQL Specialization
+231,Introduction to Data Science Specialization
+232,IBM Data Science Professional Certificate
+233,Google Data Analytics Professional Certificate
+234,Google Data Analytics Professional Certificate
+235,Data Science: Foundations using R Specialization
+236,IBM Data Science Professional Certificate
+237,Data Science Specialization
+238,Introduction to Physical Chemistry
+239,Introduction to Chemistry:  Structures and Solutions
+240,Data Science Specialization
+241,Introduction to Physical Chemistry
+242,Introduction to Chemistry:  Structures and Solutions
